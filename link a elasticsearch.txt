@@ -1,0 +1,6 @@
+link a elasticsearch:
+https://sps-practica-226765.kb.us-east-1.aws.found.io:9243/app/enterprise_search/content/search_indices/log_consultas
+
+
+user : andreamx959@gmail.com
+pass: M_ichael27*
